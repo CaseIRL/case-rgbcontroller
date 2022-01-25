@@ -32,7 +32,7 @@ qb-menu -- https://github.com/qbcore-framework/qb-menu
 	["rgbcontroller"] 		 	 	 = {["name"] = "rgbcontroller", 				["label"] = "RGB Controller", 			["weight"] = 50, 	["type"] = "item", 		["image"] = "rgbcontroller.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   	["description"] = "Sorry I cant hear you over the sound of my RGB!"},
 
 ### PREVIEW ###
-https://www.youtube.com/watch?v=SNH05IPah4w
+https://www.youtube.com/watch?v=HAR5v332zo4
 
 ### SUPPORT ###
 https://discord.gg/qkWHBqHJg6
