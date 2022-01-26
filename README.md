@@ -39,6 +39,7 @@ qb-garages -- https://github.com/qbcore-framework/qb-garages
 
 ### ADDITIONAL REQUIREMENTS IF USING RGBCONTROLLERV2 ###
 
+qb-target - https://github.com/BerkieBb/qb-target
 progressbar - https://github.com/qbcore-framework/progressbar
 
 ### SHARED.LUA ### 
